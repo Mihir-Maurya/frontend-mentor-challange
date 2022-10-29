@@ -21,7 +21,7 @@ header{
     height: 650px;
    overflow: hidden;
    background: hsl(193, 100%, 96%);
-   background: url('/images/bg-hero-desktop.svg'),hsl(193, 100%, 96%);
+   background: url('bg-hero-desktop.svg'),hsl(193, 100%, 96%);
    margin-bottom: 120px;
 }
 
